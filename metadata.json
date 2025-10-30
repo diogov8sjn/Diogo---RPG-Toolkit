@@ -1,0 +1,5 @@
+{
+  "name": "RPG Toolbox",
+  "description": "A web application to generate 3D miniatures, fantasy RPG items, and atmospheric scenarios using Gemini AI.",
+  "requestFramePermissions": []
+}
